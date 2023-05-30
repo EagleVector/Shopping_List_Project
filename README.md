@@ -5,3 +5,5 @@ Simple shopping list app using javascript.
 ## 3. Clear UI state
 ## 4. Filter items
 ## 5. Local Storage
+## 6. Update Item and reset state
+## 7. Deploy to Netlify
